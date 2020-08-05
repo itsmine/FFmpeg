@@ -1,0 +1,25 @@
+{
+  "buildFiles": [
+    "E:\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\CMakeLists.txt",
+    "E:\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "commontool-Release-armeabi-v7a": {
+      "artifactName": "commontool",
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\.cxx\\cmake\\release\\armeabi-v7a\" commontool",
+      "abi": "armeabi-v7a",
+      "output": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libcommontool.so"
+    },
+    "camerapreview-Release-armeabi-v7a": {
+      "artifactName": "camerapreview",
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\.cxx\\cmake\\release\\armeabi-v7a\" camerapreview",
+      "abi": "armeabi-v7a",
+      "output": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libcamerapreview.so"
+    }
+  }
+}

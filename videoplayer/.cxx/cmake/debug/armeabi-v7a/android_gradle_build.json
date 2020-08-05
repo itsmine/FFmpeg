@@ -1,0 +1,98 @@
+{
+  "stringTable": {
+    "0": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/videoplayer/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dvideo_player_EXPORTS -I../../../../src/main/cpp/libpng -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -std=gnu++11 -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Drenderer_EXPORTS -I../../../../src/main/cpp/libpng -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -std=gnu++11 -O0 -fno-limit-debug-info -fPIC",
+    "3": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Drenderer_EXPORTS -I../../../../src/main/cpp/libpng -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -std=c99 -Wall -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "E:\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\CMakeLists.txt",
+    "E:\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "video_player-Debug-armeabi-v7a": {
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\.cxx\\cmake\\debug\\armeabi-v7a\" video_player",
+      "buildType": "debug",
+      "toolchain": "868004754",
+      "abi": "armeabi-v7a",
+      "artifactName": "video_player",
+      "files": [
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\src\\main\\cpp\\video_player.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libvideo_player.so"
+    },
+    "renderer-Debug-armeabi-v7a": {
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\.cxx\\cmake\\debug\\armeabi-v7a\" renderer",
+      "buildType": "debug",
+      "toolchain": "868004754",
+      "abi": "armeabi-v7a",
+      "artifactName": "renderer",
+      "files": [
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\src\\main\\cpp\\librenderer\\egl_core.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\src\\main\\cpp\\librenderer\\rgba_frame.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\src\\main\\cpp\\librenderer\\pic_preview_texture.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\src\\main\\cpp\\librenderer\\pic_preview_render.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\src\\main\\cpp\\librenderer\\pic_preview_controller.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\src\\main\\cpp\\librenderer\\png_decoder.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\src\\main\\cpp\\PngPreviewController.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\src\\main\\cpp\\librenderer\\image.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\librenderer.so"
+    }
+  },
+  "toolchains": {
+    "868004754": {
+      "cCompilerExecutable": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

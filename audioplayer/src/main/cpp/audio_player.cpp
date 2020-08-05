@@ -237,7 +237,7 @@ jboolean Java_com_lyman_audioplayer_MainActivity_createAssetAudioPlayer(JNIEnv* 
 
     // convert Java string to UTF-8
 
-    const char *utf8 = env->GetStringUTFChars(filename, false);
+    const char *utf8 = env->GetStringUTFChars(filename, JNI_FALSE);
     assert(NULL != utf8);
 
     // use asset manager to open asset by filename

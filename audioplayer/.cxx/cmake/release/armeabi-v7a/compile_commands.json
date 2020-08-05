@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/audioplayer/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi23 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Daudio_player_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\audio_player.dir\\src\\main\\cpp\\audio_player.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\audioplayer\\src\\main\\cpp\\audio_player.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/audioplayer/src/main/cpp/audio_player.cpp"
+}
+]

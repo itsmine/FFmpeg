@@ -1,0 +1,109 @@
+[
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\matrix.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\matrix.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/matrix.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\thread.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\thread.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/thread.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\egl_core\\egl_core.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\egl_core\\egl_core.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/egl_core/egl_core.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\egl_core\\egl_share_context.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\egl_core\\egl_share_context.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/egl_core/egl_share_context.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\message_queue\\handler.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\message_queue\\handler.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/message_queue/handler.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\message_queue\\message_queue.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\message_queue\\message_queue.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/message_queue/message_queue.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\opengl_media\\movie_frame.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\movie_frame.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/opengl_media/movie_frame.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\opengl_media\\render\\video_gl_surface_render.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\render\\video_gl_surface_render.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/opengl_media/render/video_gl_surface_render.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\opengl_media\\texture\\gpu_texture_frame.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\texture\\gpu_texture_frame.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/opengl_media/texture/gpu_texture_frame.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\opengl_media\\texture\\texture_frame.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\texture\\texture_frame.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/opengl_media/texture/texture_frame.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\opengl_media\\texture\\yuv_texture_frame.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\texture\\yuv_texture_frame.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/opengl_media/texture/yuv_texture_frame.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\opengl_media\\texture_copier\\gpu_texture_frame_copier.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\texture_copier\\gpu_texture_frame_copier.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/opengl_media/texture_copier/gpu_texture_frame_copier.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\opengl_media\\texture_copier\\texture_frame_copier.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\texture_copier\\texture_frame_copier.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/opengl_media/texture_copier/texture_frame_copier.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\opengl_media\\texture_copier\\yuv_texture_frame_copier.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\texture_copier\\yuv_texture_frame_copier.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/opengl_media/texture_copier/yuv_texture_frame_copier.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\commontool.dir\\src\\main\\cpp\\libcommon\\opensl_media\\opensl_es_context.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opensl_media\\opensl_es_context.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/libcommon/opensl_media/opensl_es_context.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcamerapreview_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\camerapreview.dir\\src\\main\\cpp\\camera_preview\\mv_recording_preview_controller.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\camera_preview\\mv_recording_preview_controller.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/camera_preview/mv_recording_preview_controller.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcamerapreview_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\camerapreview.dir\\src\\main\\cpp\\camera_preview\\recording_preview_renderer.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\camera_preview\\recording_preview_renderer.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/camera_preview/recording_preview_renderer.cpp"
+},
+
+{
+  "directory": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/release/armeabi-v7a",
+  "command": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcamerapreview_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\camerapreview.dir\\src\\main\\cpp\\LPreviewScheduler.cpp.o -c D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\LPreviewScheduler.cpp",
+  "file": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/src/main/cpp/LPreviewScheduler.cpp"
+}
+]

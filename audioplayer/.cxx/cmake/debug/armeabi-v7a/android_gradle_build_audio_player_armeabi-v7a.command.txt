@@ -1,0 +1,7 @@
+Executable : E:\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\CodeSpace\AndroidStudioProjects\FFmpeg\audioplayer\.cxx\cmake\debug\armeabi-v7a
+audio_player
+jvmArgs : 
+

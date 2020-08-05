@@ -1,0 +1,25 @@
+{
+  "buildFiles": [
+    "E:\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\CMakeLists.txt",
+    "E:\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "renderer-Release-armeabi-v7a": {
+      "artifactName": "renderer",
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\.cxx\\cmake\\release\\armeabi-v7a\" renderer",
+      "abi": "armeabi-v7a",
+      "output": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\librenderer.so"
+    },
+    "video_player-Release-armeabi-v7a": {
+      "artifactName": "video_player",
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\.cxx\\cmake\\release\\armeabi-v7a\" video_player",
+      "abi": "armeabi-v7a",
+      "output": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\videoplayer\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libvideo_player.so"
+    }
+  }
+}

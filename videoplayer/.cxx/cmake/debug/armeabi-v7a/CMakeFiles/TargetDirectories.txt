@@ -1,0 +1,4 @@
+D:/CodeSpace/AndroidStudioProjects/FFmpeg/videoplayer/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/video_player.dir
+D:/CodeSpace/AndroidStudioProjects/FFmpeg/videoplayer/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/renderer.dir
+D:/CodeSpace/AndroidStudioProjects/FFmpeg/videoplayer/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/CodeSpace/AndroidStudioProjects/FFmpeg/videoplayer/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

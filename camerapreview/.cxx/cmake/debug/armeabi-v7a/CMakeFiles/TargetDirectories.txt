@@ -1,0 +1,4 @@
+D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/commontool.dir
+D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/camerapreview.dir
+D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,139 @@
+{
+  "stringTable": {
+    "0": "D:/CodeSpace/AndroidStudioProjects/FFmpeg/camerapreview/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcommontool_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=armv7-none-linux-androideabi18 --gcc-toolchain=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcamerapreview_EXPORTS -I../../../../src/main/cpp/libcommon -I../../../../src/main/cpp/camera_preview -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "E:\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\CMakeLists.txt",
+    "E:\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "camerapreview-Debug-armeabi-v7a": {
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\.cxx\\cmake\\debug\\armeabi-v7a\" camerapreview",
+      "buildType": "debug",
+      "toolchain": "1520663287",
+      "abi": "armeabi-v7a",
+      "artifactName": "camerapreview",
+      "files": [
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\camera_preview\\mv_recording_preview_controller.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\camera_preview\\recording_preview_renderer.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\LPreviewScheduler.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libcamerapreview.so"
+    },
+    "commontool-Debug-armeabi-v7a": {
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\.cxx\\cmake\\debug\\armeabi-v7a\" commontool",
+      "buildType": "debug",
+      "toolchain": "1520663287",
+      "abi": "armeabi-v7a",
+      "artifactName": "commontool",
+      "files": [
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\matrix.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\thread.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\egl_core\\egl_core.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\egl_core\\egl_share_context.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\message_queue\\handler.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\message_queue\\message_queue.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\movie_frame.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\render\\video_gl_surface_render.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\texture\\gpu_texture_frame.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\texture\\texture_frame.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\texture\\yuv_texture_frame.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\texture_copier\\gpu_texture_frame_copier.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\texture_copier\\texture_frame_copier.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opengl_media\\texture_copier\\yuv_texture_frame_copier.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\src\\main\\cpp\\libcommon\\opensl_media\\opensl_es_context.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\CodeSpace\\AndroidStudioProjects\\FFmpeg\\camerapreview\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libcommontool.so"
+    }
+  },
+  "toolchains": {
+    "1520663287": {
+      "cppCompilerExecutable": "E:\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
